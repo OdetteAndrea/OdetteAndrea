@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dtu-usuario-de-github%26label%3DVistas%2Bdel%2BPerfil%26color%3Dblueviolet%26style%3Dflat-square" alt="Profile views" />
+<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DOdetteAndrea%26label%3DVistas%2Bdel%2BPerfil%26color%3Dblueviolet%26style%3Dflat-square" alt="Profile views" />
 </p>
 
 👩‍💻 Sobre mí
