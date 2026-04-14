@@ -40,9 +40,8 @@ Nota: Puedes editar estos iconos según las tecnologías que estés estudiando a
 📊 Mis Estadísticas en GitHub
 
 <div align="center">
-<!-- Recuerda cambiar "tu-usuario-de-github" por tu nombre de usuario real -->
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dtu-usuario-de-github%26show_icons%3Dtrue%26theme%3Ddracula%26include_all_commits%3Dtrue%26count_private%3Dtrue"/>
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dtu-usuario-de-github%26layout%3Dcompact%26theme%3Ddracula"/>
+<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DOdetteAndrea%26show_icons%3Dtrue%26theme%3Ddracula%26include_all_commits%3Dtrue%26count_private%3Dtrue"/>
+<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DOdetteAndrea%26layout%3Dcompact%26theme%3Ddracula"/>
 </div>
 
 📫 ¿Conectamos?
@@ -50,10 +49,10 @@ Nota: Puedes editar estos iconos según las tecnologías que estés estudiando a
 Me encanta conocer a otros desarrolladores, emprendedores y personas del mundo tech. ¡No dudes en saludar!
 
 <p align="left">
-<a href="https://www.google.com/search?q=https://linkedin.com/in/tu-enlace-de-linkedin" target="_blank">
+<a href="https://www.linkedin.com/in/odette-andrea-63b78a395/" target="_blank">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn" />
 </a>
-<a href="mailto:tu-correo@email.com">
+<a href="mailto:contacto.andrea.cl@gmail.com">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email" />
 </a>
 </p>
